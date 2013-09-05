@@ -1,0 +1,29 @@
+.stripe-container {
+  height: 150px;
+  width: auto;
+  margin: 0px;
+}
+
+.stripe {
+  height: 150px;
+}
+
+.blue-bg {
+  background-color: rgb(23,158,197);
+}
+
+.green-bg {
+  background-color: rgb(169,216,47);
+}
+
+.red-bg {
+  background-color: rgb(250,81,71);
+}
+
+.yellow-bg {
+  background-color: rgb(254,205,83);
+}
+
+.purple-bg {
+  background-color: rgb(199,141,191);
+}
