@@ -1,3 +1,8 @@
+.modal-controls {
+  /*background-color: rgb(209,241,250);*/
+  background-color: hsl(3,95%,95%);
+}
+
 .stripe-container {
   height: 150px;
   width: auto;
@@ -26,4 +31,24 @@
 
 .purple-bg {
   background-color: rgb(199,141,191);
+}
+
+//for centering divs with dynamic widths
+.outer-center {
+    float: right;
+    right: 50%;
+    position: relative;
+}
+.inner-center {
+    float: right;
+    right: -50%;
+    position: relative;
+}
+
+.absolute-position {
+  position: absolute;
+}
+
+.relative-position {
+  position: relative;
 }
